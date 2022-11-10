@@ -1,6 +1,6 @@
 Hello World, I'm Elisio Filho!
 -
-I'm Systems Analyst living in Maceió, Brazil.
+I'm Systems Analyst and Bussiness living in Maceió, Brazil.
 
 - 👨🏻‍💻 Have experience with HTML, Javascript, CSS, Ruby on Rails, PostgreSQL, MySQL and Firebase.
 - 🌱 Very interested in Product Management/Owner and decision making based on data.
