@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hey, I'm Elisio!
 
-<!--
-**elisiofilho/ElisioFilho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineer and Systems Analyst.
 
-Here are some ideas to get you started:
+I work with Ruby on Rails, backend development, integrations, data-driven systems and business-oriented digital products.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My background combines software engineering, business analysis, product thinking and tech community building.
+
+Ruby on Rails, PostgreSQL, MySQL, Redis, Sidekiq, GraphQL, REST APIs, Docker and Git are in my stack.
+
+[LinkedIn →](https://www.linkedin.com/in/elisio-filho-6029b8a5/)  
+[Email →](mailto:elisionfilho@gmail.com)
+
+<!---
+elisiofilho/elisiofilho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
